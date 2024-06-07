@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-## UAS-PRAK-11423054
-
 <p><b>
-Tugas UAS PRAKTIKUM 
-</p></b>
-=======
+Web Booking Lapangan Badminton Natan Obet Nego Hutahaean(11423054)
+</b></p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -42,19 +39,19 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- *[Vehikl](https://vehikl.com/)*
+- *[Tighten Co.](https://tighten.co)*
+- *[Kirschbaum Development Group](https://kirschbaumdevelopment.com)*
+- *[64 Robots](https://64robots.com)*
+- *[Cubet Techno Labs](https://cubettech.com)*
+- *[Cyber-Duck](https://cyber-duck.co.uk)*
+- *[Many](https://www.many.co.uk)*
+- *[Webdock, Fast VPS Hosting](https://www.webdock.io/en)*
+- *[DevSquad](https://devsquad.com)*
+- *[Curotec](https://www.curotec.com/services/technologies/laravel/)*
+- *[OP.GG](https://op.gg)*
+- *[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)*
+- *[Lendio](https://lendio.com)*
 
 ## Contributing
 
@@ -71,5 +68,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> 52cf1ac (inisialisasi awal)
-# UAS-PRAK-11423054
+# uts_prak_booking_lapangan_badminton_11423039
